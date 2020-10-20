@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\LearnC_Sharp\LearnC_Sharp\bin\Debug\netcoreapp3.1\LearnC_Sharp.exe
+C:\Users\PC\source\repos\LearnC_Sharp\LearnC_Sharp\bin\Debug\netcoreapp3.1\LearnC_Sharp.deps.json
+C:\Users\PC\source\repos\LearnC_Sharp\LearnC_Sharp\bin\Debug\netcoreapp3.1\LearnC_Sharp.runtimeconfig.json
+C:\Users\PC\source\repos\LearnC_Sharp\LearnC_Sharp\bin\Debug\netcoreapp3.1\LearnC_Sharp.runtimeconfig.dev.json
+C:\Users\PC\source\repos\LearnC_Sharp\LearnC_Sharp\bin\Debug\netcoreapp3.1\LearnC_Sharp.dll
+C:\Users\PC\source\repos\LearnC_Sharp\LearnC_Sharp\bin\Debug\netcoreapp3.1\LearnC_Sharp.pdb
+C:\Users\PC\source\repos\LearnC_Sharp\LearnC_Sharp\obj\Debug\netcoreapp3.1\LearnC_Sharp.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\LearnC_Sharp\LearnC_Sharp\obj\Debug\netcoreapp3.1\LearnC_Sharp.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\LearnC_Sharp\LearnC_Sharp\obj\Debug\netcoreapp3.1\LearnC_Sharp.AssemblyInfo.cs
+C:\Users\PC\source\repos\LearnC_Sharp\LearnC_Sharp\obj\Debug\netcoreapp3.1\LearnC_Sharp.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\LearnC_Sharp\LearnC_Sharp\obj\Debug\netcoreapp3.1\LearnC_Sharp.dll
+C:\Users\PC\source\repos\LearnC_Sharp\LearnC_Sharp\obj\Debug\netcoreapp3.1\LearnC_Sharp.pdb
+C:\Users\PC\source\repos\LearnC_Sharp\LearnC_Sharp\obj\Debug\netcoreapp3.1\LearnC_Sharp.genruntimeconfig.cache
